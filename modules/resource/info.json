@@ -1,0 +1,15 @@
+{
+    "display_string": "Files",
+    "module_name": "resource",
+    "type": "hide",
+    "icons":{
+		"fa": "fa fa-envelope",
+		"boxicons": ""
+	},
+    "url_prefix": "/resource",
+    "author": {
+        "name": "",
+        "website": "",
+        "mail": ""
+    }
+}
